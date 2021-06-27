@@ -7,6 +7,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ![image](https://user-images.githubusercontent.com/79013025/123548690-11f49180-d723-11eb-9a34-6148d88d4141.png)
 
-The relative abundance of different microbial “species” (technically operational taxonomic units, OTUs) across all the belly buttons sampled. Each pie wedge represents a single species, with the size of the wedge a function of the total abundance of that species (total number of reads). Species can have many occurrences either by being present on many people or being represented by many individuals when present. In practice, the most abundant species in belly buttons are all both found on many people and abundant on those individuals.
+The relative abundance of different microbial “species” (technically operational taxonomic units, OTUs) across all the belly buttons sampled. Each pie wedge represents a single species, with the size of the wedge a function of the total abundance of that species (total number of reads). Species can have many occurrences either by being present on many people or being represented by many individuals when present. In practice, the most abundant species in belly buttons are all both found on many people and abundant on those individuals. *(sourced from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
 
